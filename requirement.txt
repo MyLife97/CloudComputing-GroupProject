@@ -1,0 +1,5 @@
+# -*- coding: utf-8 -*-
+discord[voice]
+youtube-dl==2021.3.25
+flask==1.1.2
+flask-socketio==5.0.1
